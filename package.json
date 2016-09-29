@@ -1,0 +1,18 @@
+{
+  "name": "sample-node-project",
+  "version": "1.0.0",
+  "description": "test-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "examples"
+  ],
+  "author": "praja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
